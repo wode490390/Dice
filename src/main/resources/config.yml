@@ -1,0 +1,4 @@
+#Random number range from 1 to this value. This value must be greater than 1.
+max: 6
+#Broadcast message
+msg: "&9[Dice] &8&o%PLAYER% rolled %RESULT%"

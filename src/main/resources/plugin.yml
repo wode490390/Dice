@@ -1,0 +1,12 @@
+﻿main: cn.wode490390.nukkit.dice.Dice
+name: "Dice"
+author: "wode490390"
+description: "Dice plugin for Nukkit"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+permissions:
+  dice.command:
+    description: "Allows player to roll dice"
+    default: true
